@@ -1,0 +1,17 @@
+_repo: The-Bible-King-James-Version-Complete_30
+_version: 0.0.1
+description: From many editions.
+gutenberg_issued: '1992-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible'
+- !lcc 'BS'
+- GITenberg
+title: The Bible, King James Version, Complete
+url: http://www.gutenberg.org/ebooks/30
