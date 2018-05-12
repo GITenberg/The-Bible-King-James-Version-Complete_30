@@ -1,6 +1,11 @@
 _repo: The-Bible-King-James-Version-Complete_30
-_version: 0.1.2
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: From many editions.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30#The-Bible-King-James-Version-Complete
 gutenberg_issued: '1992-04-01'
 gutenberg_type: Text
 identifiers:
